@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How ti reach me: by my email 
-- ⚡ Fun fact: The Earth is round  not flat
+- ⚡ Fun fact: The Earth is round and a sphere not flat
 
 <!---
 vicmildylchai1/vicmildylchai1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
